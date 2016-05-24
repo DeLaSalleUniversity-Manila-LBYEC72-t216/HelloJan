@@ -21,4 +21,4 @@ int main ()
 }
 ```
 
-![](Untitled.PNG)
+![](Untitled.png)
